@@ -1,1 +1,1 @@
-The project predicts the country of origin from dashcam videos using deep learning techniques.
+The project created to predict the country of origin from dashcam videos using deep learning techniques.
