@@ -1,0 +1,7 @@
+W celu zadziałania skryptu testującego należy pobrać wagi modelu z google drive:
+https://drive.google.com/drive/folders/1qEsgHZQT-s7ChgpqKmCDtrCOc00bbeyB?usp=sharing
+
+Wykorzystane datasety udostępnione są na dysku google pod linkiem:
+https://drive.google.com/drive/folders/1_U3udvWsm1bq6P_m8VUO9jDlGO14zPcl?usp=drive_link
+A ich lista jest następujaca:
+Mappilary - https://www.mapillary.com/dataset/places
